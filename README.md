@@ -1,6 +1,8 @@
 # Mercari
 Mercari Price Suggestion Challenge
 
+objective
+
 ## Dataset
 
 Due to size (~1 million rows), the dataset is hosted externally:
